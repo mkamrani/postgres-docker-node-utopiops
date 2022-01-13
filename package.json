@@ -1,0 +1,30 @@
+{
+  "name": "postgres-docker-node-utopiops",
+  "version": "1.0.0",
+  "description": "Connecting to postgresql from node.js application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkamrani/postgres-docker-node-utopiops.git"
+  },
+  "keywords": [
+    "utopiops.com",
+    "docker",
+    "hosting",
+    "cloud",
+    "postgresql",
+    "node.js"
+  ],
+  "author": "Mohsen Kamrani @ utopiops.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkamrani/postgres-docker-node-utopiops/issues"
+  },
+  "homepage": "https://github.com/mkamrani/postgres-docker-node-utopiops#readme",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}
